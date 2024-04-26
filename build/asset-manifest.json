@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Chandan205/homework_grader.git/static/css/main.e6c13ad2.css",
+    "main.js": "/Chandan205/homework_grader.git/static/js/main.f201ea67.js",
+    "static/js/453.ad6eb26e.chunk.js": "/Chandan205/homework_grader.git/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/Chandan205/homework_grader.git/index.html",
+    "main.e6c13ad2.css.map": "/Chandan205/homework_grader.git/static/css/main.e6c13ad2.css.map",
+    "main.f201ea67.js.map": "/Chandan205/homework_grader.git/static/js/main.f201ea67.js.map",
+    "453.ad6eb26e.chunk.js.map": "/Chandan205/homework_grader.git/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f201ea67.js"
+  ]
+}
